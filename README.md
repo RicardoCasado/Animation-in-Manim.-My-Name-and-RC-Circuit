@@ -1,2 +1,2 @@
 Hello
-![Demo](assets/demo.gif)
+![Demo](AnimationRC_Circuit.gif)
